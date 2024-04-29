@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 
 <?import javafx.scene.control.SpinnerValueFactory.IntegerSpinnerValueFactory?>
-<GridPane prefHeight="468.0" prefWidth="705.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.tmas282.cardcountertrainer.CardCounterController">
+<GridPane prefHeight="468.0" prefWidth="705.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.tmas282.cardcountertrainer.CardCounterController">
   <columnConstraints>
     <ColumnConstraints hgrow="SOMETIMES" percentWidth="30.0" />
     <ColumnConstraints halignment="CENTER" hgrow="ALWAYS" percentWidth="40.0" />
